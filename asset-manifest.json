@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.2cce8147.chunk.css",
-    "main.js": "/static/js/main.c68002a8.chunk.js",
-    "main.js.map": "/static/js/main.c68002a8.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/css/2.510409cd.chunk.css": "/static/css/2.510409cd.chunk.css",
-    "static/js/2.4e40d468.chunk.js": "/static/js/2.4e40d468.chunk.js",
-    "static/js/2.4e40d468.chunk.js.map": "/static/js/2.4e40d468.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.f64c6398697e3112ca8941eb37eed4f3.js": "/precache-manifest.f64c6398697e3112ca8941eb37eed4f3.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.510409cd.chunk.css.map": "/static/css/2.510409cd.chunk.css.map",
-    "static/css/main.2cce8147.chunk.css.map": "/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+    "main.css": "/web-page/static/css/main.2cce8147.chunk.css",
+    "main.js": "/web-page/static/js/main.5eb4d789.chunk.js",
+    "main.js.map": "/web-page/static/js/main.5eb4d789.chunk.js.map",
+    "runtime~main.js": "/web-page/static/js/runtime~main.d74acbcd.js",
+    "runtime~main.js.map": "/web-page/static/js/runtime~main.d74acbcd.js.map",
+    "static/css/2.510409cd.chunk.css": "/web-page/static/css/2.510409cd.chunk.css",
+    "static/js/2.4e40d468.chunk.js": "/web-page/static/js/2.4e40d468.chunk.js",
+    "static/js/2.4e40d468.chunk.js.map": "/web-page/static/js/2.4e40d468.chunk.js.map",
+    "index.html": "/web-page/index.html",
+    "precache-manifest.b5c3c0e175affcd754a2a9c0e8992eac.js": "/web-page/precache-manifest.b5c3c0e175affcd754a2a9c0e8992eac.js",
+    "service-worker.js": "/web-page/service-worker.js",
+    "static/css/2.510409cd.chunk.css.map": "/web-page/static/css/2.510409cd.chunk.css.map",
+    "static/css/main.2cce8147.chunk.css.map": "/web-page/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/web-page/static/media/logo.5d5d9eef.svg"
   }
 }
